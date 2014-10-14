@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Claculator", "Claculator\Claculator.vcproj", "{E97495A8-AA11-4057-92C3-2F5ACCE9D565}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClaculatorTest", "ClaculatorTest\ClaculatorTest.vcproj", "{D530335E-53ED-4F5B-91EC-8998BC298711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97495A8-AA11-4057-92C3-2F5ACCE9D565}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E97495A8-AA11-4057-92C3-2F5ACCE9D565}.Debug|Win32.Build.0 = Debug|Win32
+		{E97495A8-AA11-4057-92C3-2F5ACCE9D565}.Release|Win32.ActiveCfg = Release|Win32
+		{E97495A8-AA11-4057-92C3-2F5ACCE9D565}.Release|Win32.Build.0 = Release|Win32
+		{D530335E-53ED-4F5B-91EC-8998BC298711}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D530335E-53ED-4F5B-91EC-8998BC298711}.Debug|Win32.Build.0 = Debug|Win32
+		{D530335E-53ED-4F5B-91EC-8998BC298711}.Release|Win32.ActiveCfg = Release|Win32
+		{D530335E-53ED-4F5B-91EC-8998BC298711}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
